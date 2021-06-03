@@ -139,6 +139,23 @@ Ningguang was used due to her low burst energy cost \(40\)
 
 Above numbers have being subtracted from 150 \(started with that hp before healing\)
 
+## Tenacity of the Millelith
+
+### 4pc ToM procs against shielded enemies
+
+**By:** Silvershine2\#5439  
+**Added:** 5/22/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/842423144845541446/845513030804832296/transcript-4pc-tom-procs-against-shielded-enemies.html)
+
+**Theory:** The 4 piece effect of Tenacity of the Millelith activates with elemental skills hitting shielded enemies and dealing no damage
+
+**Evidence:**
+
+* [VS elemental shields](https://youtu.be/w57ROmhHYnQ)  
+* [Vs wood tower shields](https://youtu.be/Gfcc__WOHRw)  
+
+**Significance:** 4pc Millelith can have 100% uptime even against enemies that block all incoming damage.
+
 ## Thundering Fury
 
 ### **How 4pc Thundering Fury Interacts with Elemental Mastery**
@@ -208,18 +225,13 @@ In short, yes. The 4 set TF increases reaction damage even if the holder is not 
 
 **By:** Boesik\#3192, Cenpi\#3224, Wrathior\#4848, Lix-\#3417
 
-In short, no. The 4TF holder must be on the field to gain the benefit of the 1s CD reduction.
-
+In short, no. The 4TF holder must be on the field to gain the benefit of the 1s CD reduction.  
 We know \(just to reaffirm\) that if the 4TF holder is on the field and proccing the reaction, the 1s CD reduction applies with every reaction
 
-* **Xiangling using guoba on electro slimes shows each guoba tick reducing cd by 1 s.**
-  * [**Evidence**](https://drive.google.com/file/d/1B8s87WspSWaQshBOa6CiQrZeHowXInAf/view?usp=sharing)
-* **Xingqiu using his swords to reduce cd by 1s on electro slimes.**
-  * [**Evidence**](https://drive.google.com/file/d/1wH2Ot4um675xcFqfjgzTsLAW1-jJ4aGa/view?usp=sharing)
+* [Xiangling using guoba on electro slimes shows each guoba tick reducing cd by 1 s.](https://drive.google.com/file/d/1B8s87WspSWaQshBOa6CiQrZeHowXInAf/view?usp=sharing)
+* [Xingqiu using his swords to reduce cd by 1s on electro slimes.](https://drive.google.com/file/d/1wH2Ot4um675xcFqfjgzTsLAW1-jJ4aGa/view?usp=sharing)
 
-But if the 4TF holder is not on the field but proccing the reaction, the 1s CD reduction does not go through.
-
-[**Evidence**](https://drive.google.com/file/d/17yU8Lg6W7ZZcQO2V4C6P1VOaeTQPx-cA/view?usp=sharing)
+But if the 4TF holder is not on the field but proccing the reaction, the 1s CD reduction [does not go through](https://drive.google.com/file/d/17yU8Lg6W7ZZcQO2V4C6P1VOaeTQPx-cA/view?usp=sharing).
 
 * In the video you can see that at roughly 2.33s into the video guoba is summoned with 11.9s CD.
 * 2 overloads occur \(at 4s and 6s\)
@@ -459,6 +471,76 @@ I wanted to see how Viridescent Venerer would increase final Swirl damage. The i
 **Significance:**
 
 The 4p bonus increases a lot Swirl damage. Despite the low base damage of Swirl, this set will improve it in a way that sometimes it can be compared to 1 Electro-charged hit \(depending on char EM\).
+
+### 4pc VV triggering mechanics
+
+**By:** sigurd\#3854  
+**Added:** 5/22/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/840514985667199006/845531794307547186/transcript-4pc-vv-mechanics.html)
+
+**Finding:** 4 piece Viridescent Venerer \(vv\) only shreds if the wearer is onfield during a swirl that they trigger.
+
+**Evidence:** \(Test 1\)Anemo wearers that trigger the swirl but whether the character is onfield or offield is variable : Tests showed that vv didnt shred when the character is offield when their Q triggers a swirl. It shredded when the character was onfield during a swirl.
+
+List of tests:
+
+AMC\(Q\):
+
+* Normal 4p vv proc: [Youtube](https://www.youtube.com/watch?v=-etSCIUmf9E&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=1)
+* Offield so 4p vv doesnt proc: [Youtube](https://www.youtube.com/watch?v=D7T0P8XTJyg&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=2)
+* Onfield so 4p vv procs: [Youtube](https://www.youtube.com/watch?v=QdaWU4A955I&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=3)
+* Offield DURING a swirl so 4p vv doesnt proc: [Youtube](https://www.youtube.com/watch?v=0_q_DZMG-KA&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=4)
+
+Jean\(Q\):
+
+* Normal 4p vv proc: [Youtube](https://www.youtube.com/watch?v=Hi4x1IMPFl4&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=5)
+* Offield so 4p vv doesnt proc: [Youtube](https://www.youtube.com/watch?v=SUP434omYzI&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=6)
+* Onfield so 4p vv procs: [Youtube](https://www.youtube.com/watch?v=rMrRLdu6DsY&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=7)
+
+Sucrose\(Q\):
+
+* Normal 4p vv proc dmg : [Youtube](https://www.youtube.com/watch?v=Kxh8kD6JFp8&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=16)
+* Offield when swirl happens so 4p vv doesnt proc: [Youtube](https://www.youtube.com/watch?v=-QwzOzdUO20&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=14)
+* Onfield so 4p vv procs: [Youtube](https://www.youtube.com/watch?v=E4WG0wjG8Ig&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=15)
+
+Anemo and non-Anemo wearers that dont trigger the swirl but is onfield during a swirl:  
+Tests showed 4p vv not shredding at all.
+
+List of tests:
+
+* Stat page for testing if non-anemo characters that have 4p vv and are onfield during a swirl can shred: [Youtube](https://www.youtube.com/watch?v=2aVvXneoUdo&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=8)
+* Non-anemo characters that have 4p vv and are onfield during a swirl they dont trigger CANNOT shred: [Youtube](https://www.youtube.com/watch?v=w4GP55tOPX4&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=9)
+* Stat page for testing if anemo characters that have 4p vv and are onfield during a swirl can shred: [Youtube](https://www.youtube.com/watch?v=ro1E3-FvydM&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=10)
+* Anemo characters that have 4p vv and are onfield during a swirl they dont trigger CANNOT shred: [Youtube](https://www.youtube.com/watch?v=6cGhQPbbdns&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=11) 
+
+Non-Anemo wearers that are onfield and trigger the swirl:  
+Tests showed that they can shred with 4p vv as long as they trigger the swirl with any element which is not geo/anemo \(which is only possible against enemies with an innate Anemo aura like the Anemo hypostasis\)
+
+List of tests:
+
+* Stat page for "Pyro as trigger element for swirl with 4p vv, WILL IT SHRED": [Youtube](https://www.youtube.com/watch?v=IXaYPqGqzOw&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=12)
+* With Pyro as Trigger for swirl, 4p vv procs the shred \(vs anemo hypo\): [Youtube](https://www.youtube.com/watch?v=OOjnH_y59dM&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=13) 
+
+**Conclusion:** 4p vv wearers can only shred if they fulfil the 2 requirements of being the trigger of the swirl and being onfield during the swirl. Other elements like pyro/cryo can also shred with 4p vv with the same 2 requirements.
+
+**Significance:** Rotations to include 4p vv users is more strict and 4p vv can shred those with an innate Anemo aura with other elements as the trigger.
+
+## Archaic Petra
+
+### Geovishap Hatchling Shields with 4 Petra
+
+**By:** Raf\#7220  
+**Added:** 5/29/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/846329147081097246/848320878534328320/transcript-hatching-shields-dont-activate-petra.html) 
+
+**Finding:**  
+Geovishap Hatching shields don't activate the 4 Petra bonus
+
+**Evidence:**  
+[Video](https://youtu.be/Bc49zIE_30E)
+
+**Significance:**  
+Even though they're mechanically similar to crystallize shields, hatchling shields don't activate Petra, yet another reason the 4set is trash
 
 ## **Artifact Substats Distribution**
 

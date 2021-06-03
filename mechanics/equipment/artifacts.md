@@ -143,6 +143,10 @@
 * 2 Piece Set Bonus: HP +20%
 * 4 Piece Set Bonus: When an Elemental Skill hits an opponent, the ATK of all nearby party members is increased by 20% and their Shield Strength is increased by 30% for 3s. This effect can be triggered once every 0.5s. This effect can still be triggered even when the character who is using this artifact set is not on the field.
 {% endtab %}
+
+{% tab title="Findings" %}
+* The 4 piece effect of Tenacity of the Millelith activates with elemental skills hitting shielded enemies and dealing no damage.
+{% endtab %}
 {% endtabs %}
 
 ### Thundering Fury
@@ -185,7 +189,8 @@
 
 {% tab title="Findings" %}
 * Anemo supports that can proc multiple swirl infused with different elements rapidly can have multiple elements resist debuffs applied at the same time.
-* A single anemo application on an enemy with electro-charged will reduce both hydro and electro resistances
+* A single anemo application on an enemy with electro-charged will reduce both hydro and electro resistances.
+* 4 piece Viridescent Venerer only shreds if the wearer is onfield during a swirl that they trigger.
 {% endtab %}
 {% endtabs %}
 
@@ -193,7 +198,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
-* 2 Piece Set Bonus: Increases Cryo DMG Bonus by 15%
+* 2 Piece Set Bonus: Increases Elemental Mastery by 80.
 * 4 Piece Set Bonus: Increases Charged Attack DMG by 35% if the character uses a Catalyst or Bow.
 {% endtab %}
 {% endtabs %}

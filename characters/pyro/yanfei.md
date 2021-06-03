@@ -77,7 +77,7 @@ Summons flames that deal AoE Pyro DMG. Opponents hit by the flames will grant Ya
 | Particles | 3 \(-\) |
 | Gauge Units | 1A |
 | Frames | 46 |
-| Motion Vaule | 309.70%/s |
+| Motion Value | 309.70%/s |
 {% endtab %}
 
 {% tab title="Done Deal" %}
@@ -174,6 +174,8 @@ Increases the Level of Done Deal by 3.
 ### Extra Clause
 
 Increases the maximum number of Scarlet Seals by 1.
+
+* At 4 seals, Yanfei's charged attack will consume 0 stamina.
 {% endtab %}
 {% endtabs %}
 

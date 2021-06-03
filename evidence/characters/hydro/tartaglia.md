@@ -133,3 +133,42 @@ As multiple players had pointed out, Childe seems to have a fixed 3-second ICD o
 
 Just a clarification on how his particle generation works.
 
+## Childe Melee Charged Attack Misses Stunned Ruin Guard
+
+**By:** EdisonsMathsClub\#6469  
+**Added:** 5/10/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/840462878556684308/841458714170884116/transcript-childe-melee-attack-missing-ruin-guard.html)
+
+**Finding:**  
+Childe's Melee charged attack will not register on a stunned Ruin Guard when aiming at its feet
+
+**Evidence:**  
+[Video](https://www.youtube.com/watch?v=fjSYfPqKtPg&feature=youtu.be)
+
+Step 1. Remove all crit from Childe so Riptide is not applied, so Riptide Slash does not ruin damage tests  
+Step 2. Stun Ruin Guard  
+Step 3. Melee CA in front of it's feet, and compare the amount of damage numbers \(should be 3 since N1CA has 3 parts\)  
+Step 4. Melee CA at the side and compare the amount of damage numbers \(should also be 3\)
+
+From what @itskhoi\#0013 found for spear users who have the "dive" CA, Childe suffers from the opposite problem where his CA pushes him back, so he cannot hit the hitbox anymore. Thus, my assumption is that the spear users's "dive" CA hitbox is actually far behind them, thus they cannot hit the ruin guard. This would also explain why the 1st hit of Childe's melee CA hits, but he is pushed back too far by the time the 2nd hit can connect.
+
+**Significance:**  
+When using Childe's melee CA against stunned ruin guards, go to the side to reliably hit them. In addition, this could mean that the spear "dive" hitbox is actually far behind them, which is why both Childe's 2nd melee CA and spear users with "dive" CA cannot hit ruin guards.
+
+## Childe Can Proc Prototype Crescent's Passive in Melee Form
+
+**By:** SaosKreator\#2700  
+**Added:** 5/29/2020  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/847145221426642985/848318293931589662/transcript-childe-melee-proc-prototype-crescent.html)
+
+**Finding:**  
+Childe's elemental skill, Foul Legacy: Raging Tides' Charge attacks can proc prototype crescent's passive on Geovishap's weakspots.
+
+**Evidence:**  
+Prototype Crescent's passive, Unreturning, will activate when a charged attack hits enemies' weakpoints. Since the descriptions never specify it must be a bow charge attack, any charged attacks theoretically can trigger the passive as long as it hits the weakspot of the enemy. Since Geovishaps doesn't get knocked back like other smaller enemies, and their head is luckily, ground level unlike Lectors and Heralds, it is possible to hit the Vishap's head and trigger the passive with Childe's melee cross slash. Evidence and testing is shown on the video below.   
+[Video 1](https://youtu.be/oOfeu5pW0oE)  
+[Video 2](https://youtu.be/nUIqqcqjOcI)
+
+**Significance:**  
+Hopefully, by knowing this, people can start twiddling around this and find much more unique interactions between Crescent's passive and its user, specifically Childe, but that's only because he is the only hybrid unit between melee and range so far. If there is a direct Crescent counterpart in the future(swords, polearms, claymores) and there's a unit that is also a hybrid like Childe, we can be sure that said unit's elemental skill can proc said weapon's passive with their 'special' charged attack. This can also makes running Childe with prototype Crescent a lot more comfortable on abyss that consists of Vishaps, such as Floor 12-1, or Pale Flames Domain.
+

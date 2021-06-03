@@ -38,6 +38,23 @@
 | The Parting Refrain | A part of the "Millennial Movement" that wanders amidst the winds. Increases Elemental Mastery by **60/75/90/105/120**. When the Elemental Skills or Elemental Bursts of the character wielding this weapon hit opponents, that character gains a **Sigil of Remembrance**. This effect can be triggered once every 0.2s and can be triggered even if said character is not on the field. When you possess **4** Sigils of Remembrance, all of them will be consumed and all nearby party members will obtain the "**Millennial Movement: Farewell Song**" effect for 12s. "Millennial Movement: Farewell Song" increases Elemental Mastery by **100/125/150/175/200** and increases ATK by **20/25/30/35/40**%. Once this effect is triggered, you will not gain Sigils of Remembrance for 20s. Of the many effects of the "**Millennial Movement**," buffs of the same type will not stack. |
 | Base ATK | 46 - 608 |
 | ER% | 12% - 55.1% |
+
+* Different weapons with the Millennial Movement effect can stack, however effects of the same buff-type will override each other. - [rakka\#0099](../../../evidence/mechanics/equipment/weapons.md#millenial-movement-stack-mechanics)
+{% endtab %}
+
+{% tab title="Details" %}
+| Level | Base Atk | Energy Recharge% |
+| :--- | :--- | :--- |
+| 60 | 382 | 40.6 |
+| 60+ | 414 | 40.6 |
+| 65 | 435 | 43 |
+| 70 | 457 | 45.4 |
+| 70+ | 488 | 45.4 |
+| 75 | 510 | 47.9 |
+| 80 | 532 | 50.3 |
+| 80+ | 563 | 50.3 |
+| 85 | 586 | 52.7 |
+| 90 | 608 | 55.1 |
 {% endtab %}
 {% endtabs %}
 
@@ -281,6 +298,7 @@
 | ER% | 6.7% - 30.6% |
 
 * Passive does not proc on shielded enemies - [Exuma\#1917](../../../evidence/mechanics/equipment/weapons.md#sacrificial-weapons-do-not-proc-on-shielded-enemies)
+* When a character with multiple charges of their elemental skill procs the sacrificial passive, the elemental skill cooldown shown on the timer is the cooldown that will be reset. - [mol\#3280 ](../../../evidence/mechanics/equipment/weapons.md#sacrificial-passive-with-multiple-e-stacks) 
 {% endtab %}
 
 {% tab title="Details" %}

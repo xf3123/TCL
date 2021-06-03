@@ -12,13 +12,13 @@ If an elemental skill hits an enemy, **elemental energy particles** will be gene
 
 ### Auto Attacking
 
-You gain **flat energy** when you auto attack, the mechanics of this are currently unknown, feel free to take up the bounty in \#theory-hunt on the Keqing Mains Discord if you wish to investigate further.
+Normal attacks have a chance on hit to give the on field character about 1 **flat energy**. This can be seen when the on field character's vision flashes. Multi-hit attacks, such as Keqing's N1C, count each hit individually for proc chance. It also gives energy regardless if the user is unable get particles from their elemental skill, such as in Xiao's Bane of All Evil.
 
 This flat energy is only gained by the character on-field, off-field characters gain no energy from this method.
 
 ### Enemy HP Thresholds
 
-Every enemy has specific HP thresholds at which they will drop energy particles or orbs. Depending on the enemy type, either **clear or elemental particles/orbs** will be dropped. When enemies drop particles/orbs and what is dropped depends on the enemy. To see the specifics, this [table](https://docs.google.com/spreadsheets/d/1kNDfwtTLuGUMtFoScvKOQbOIoYISfBEWbref_XQVd7U/edit?usp=sharing) has both the estimated thresholds and a built in enemy HP calculator.
+Every enemy has specific HP thresholds at which they will drop energy particles or orbs. Depending on the enemy type, either **clear or elemental particles/orbs** will be dropped. When enemies drop particles/orbs and what is dropped depends on the enemy. To see the specifics, this [table](https://docs.google.com/spreadsheets/d/1_z2tKyqWCybPGHGFBhibtfSeHm3by6aCME_OakNz7-8/edit?usp=sharing) has both the estimated thresholds and a built in enemy HP calculator.
 
 ### Weapons
 
@@ -85,6 +85,8 @@ Energy Recharge is the multiplier that modifies how much energy is gained from t
 * JinJinx \(Mathalos Main\)\#5874
 * c2authoritarian\#5277
 * Pinupski\#9999
+* xf3\#3123
+* Zeitraffer\#1074
 
 {% page-ref page="../../../evidence/mechanics/gameplay-mechanics/attributes/energy.md" %}
 

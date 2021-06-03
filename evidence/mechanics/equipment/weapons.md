@@ -122,6 +122,25 @@ Testing was done using Diona @ around 40% crit rate spamming normal attacks with
 
 Favonius weapons suffer the same drawback as sacrificial and does not provide itself as an alternative weapon choice against shielded enemies. This leaves favonius where it was before, the inferior option against sacrificial unless you have no better.
 
+## Millennial Movement Series
+
+### Millenial Movement stack mechanics
+
+**By:** rakka\#0099  
+**Added:** 5/22/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/844496410950631444/845499320081055744/transcript-millenial-movement-stack.html)
+
+**Theory/Finding/Bug:** Millennial Effect Overlap Behavior
+
+**Evidence:** Different weapons with the Millennial Movement effect can stack, however effects of the same buff-type will override each other. IE Elegy at R5 produces a 40% ATK bonus and a 200 EM bonus for the team however an R2 Song of Broken Pines produces a 25% ATK bonus and a 15% normal ATK speed bonus. If Elegy procs first and Pines second, the EM bonus from Elegy will stay applied however the 25% ATK bonus will override the 40% attack bonus and lower the overall effect of the shared buffs takes the most recent proc even if it takes the lower value.
+
+* [No Buffs active](https://imgur.com/1clo8t2)
+* [R5 Elegy active](https://imgur.com/ZeVAslN) \(40% ATK and 200EM bonus\)
+* [R2 Broken Pines active on top of Elegy](https://imgur.com/XhmEod6) \(25% ATK from Pines overrides 40% from Elegy, however 200 EM from Elegy remains\)
+
+**Significance:** Millennial Movement passives can stack, however if a buff type overlaps \(ATK, movement speed, EM, etc....\) then the last effects will override the previous effects while leaving the non-overlap effects alone.  
+This means that mismatched refinements with overlapping effects can affect the complexity of when Millennial buffs need to proc, so either an Elegy and Pines on the same team should both be R1, R2, etc or it means that the player has to be aware of the order of operations for their swap comps.
+
 ## Royal Weapon Series
 
 ### The Effective Crit Rate of Royal Weapons
@@ -193,6 +212,23 @@ This also raises the question of other royal weapon use cases with off screen DP
 **Short Demonstration:** [https://streamable.com/nm57p6](https://streamable.com/nm57p6)
 
 **Significance:** This has many applications in combat, especially in abyss where timed trials will be affected by proc frequency and subsequently burst uptime. Sacrificial weapons are among the best support options so understanding their mechanics are necessary.
+
+### Sacrificial Passive With Multiple E Stacks
+
+**By:** mol\#3280  
+**Added:** 5/6/2021  
+[Disscussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/837514129479827490/840052397882867752/transcript-sac-frags-reset-on-sucrose-c1.html)
+
+**Finding:**  
+When a character with multiple charges of their elemental skill procs the sacrificial passive, the elemental skill cooldown shown on the timer is the cooldown that will be reset.
+
+**Evidence:**  
+[I cast one Sucrose E](https://imgur.com/a/AKgnNoq), waited until the first cooldown was down to 5s, and cast the second E. A reset occurred, and the time of the second cooldown was ~15s \(minus 10% due to anemo resonance in video\). So, whatever timer is currently showing is the one which will be reset.
+
+The same occurs for [Ganyu C2](https://cdn.discordapp.com/attachments/837514129479827490/837875906907209728/2021-04-30_22-17-45_Trim.mp4) and [Klee](https://www.youtube.com/watch?v=tLdhyD7hBHo&start=133).
+
+**Significance:**  
+Any serial-cooldown, multi-cast skill user may waste sacrificial procs by causing a reset when their first cooldown is near 0s. Since the timer on stacked skills begins with the first skill cast out of the stack, and that skill is the one which is reset \(not the longer, still waiting cooldowns\), resets can be completely wasted on characters with multiple stacks. For example, with Sucrose it is possible to reset a skill with 0.1s of cooldown remaining, then have a stack of 15s go onto cooldown afterward. To get the most out of the cooldown benefit of sacrificial weapons, characters with multiple stacks might consider using stacks as quickly as possible.
 
 ## Specific Weapon Mechanics
 
@@ -370,6 +406,23 @@ Truncating decimals aside, the dmg number of "If additive" is the same as in-gam
 **Finding:** Yes, it can crit
 
 **Evidence:** [https://imgur.com/a/kWhXThT](https://imgur.com/a/kWhXThT)
+
+### Wolf's Gravestone
+
+#### Wolf's Gravestone Procs Don't Stack
+
+**By:** JonahFarc\#7056  
+**Added:** 5/11/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/837816774124109884/841875652197220352/transcript-multiple-wgs-interaction.html)
+
+**Finding:**  
+WGS procs do not stack and the most recent proc overwrites the existing proc, even if it has duration left over
+
+**Evidence:**  
+[https://youtu.be/ZXYUcnA-80A](https://youtu.be/ZXYUcnA-80A)
+
+**Significance:**  
+Multiple WGS can kinda suck if they're not equal refine
 
 ## General Mechanics
 

@@ -30,6 +30,8 @@ The 4pc 4NO Bonus will not apply to Beidou, Ningguang, and Ganyu's burst as a re
 
 Venti's burst will deal its full elemental absorption damage [even if it is infused later in the burst](../../evidence/mechanics/gameplay-mechanics/bugs.md#venti-q-late-absorption-bug). This allows for extra damage for any enemies remaining in the zone.
 
+Venti's Hold Elemental Skill will always lift you vertically up [even if the animation is tilted](../../evidence/mechanics/gameplay-mechanics/bugs.md#venti-e-hold-visual-error).
+
 ## Fixed Bugs
 
 ### Turbo
@@ -53,8 +55,6 @@ _Assumptions: maximum uptime utilizing burst, Oz is the trigger for all 10/12 at
 {% embed url="https://www.youtube.com/embed/9I\_NCFg-Cdw" caption="Kleeful\'s Turbo Tutorial" %}
 
 {% embed url="https://www.youtube.com/watch?v=vbz0Q7lRvYA" caption="TenTen\'s Turbo Overview" %}
-
-
 
 **Units in a Turbo Team**
 
@@ -85,8 +85,6 @@ Any unit fits here, but the units that benefit most from Turbo are energy-hungry
 **Additional Notes:**
 
 * When using a character with the same element as the current aura you will not be able to utilize Fischl's A4 since the on-field character will not be the trigger.
-
-
 
 **Hotpot**  
 Hotpot is a team comp revolving around the concept of using 4 different elements \(Pyro/Hydro/Electro/Cryo\) and turboing,

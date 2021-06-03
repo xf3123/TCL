@@ -398,3 +398,47 @@ Recommended Artifact Mainstats:
 **Significance:**  
 Better weapon selection for support Fischl.
 
+## Fischl Ult Has I-Frames
+
+**By:** !K\#3689  
+**Added:** 5/6/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/839862552401674240/839936289129365625/transcript-fischl-ult-can-iframe.html)
+
+**Finding:** Fischl ult has a tiny window that you can use to iframe through attacks.
+
+**Evidence:** [Video showing no HP loss when ruin guard lands](https://youtu.be/7RPfSWwUOLM0)
+
+**Significance:** Fischl has I-Frames on her ult, contrary to the TCL's previous claim that there were none.
+
+## Oz Summoned From Ult Snapshots Fischl's Stats When Swapped Out
+
+**By:** Trosalio\#0420  
+**Added:** 5/7/2020  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/839928261055348777/840369791340118016/transcript-oz-summoned-from-burst-uses-fischl-stats-when-swapped-out.html)
+
+**Theory:**  
+When Fischl casts Midnight Phantasmagoria and then gets swapped out, she will leave Oz behind, who will take a snapshot of Fischl's stats the moment she leaves the field.
+
+**Evidence:**  
+I started off by casting Fischl skill to show his current dmg which was 665. Then at 00:08, I used Fischl burst and swapped off when she lost the atk buff. As you can see, Oz dmg was also 665. [Video](https://www.youtube.com/watch?v=-SqSYT0QIb8)  
+For the second video, I used Fischl burst, but swapped off before she lost the atk buff. This time, Oz dmg was 1791 which was higher than his previously expected skill dmg. [Video](https://www.youtube.com/watch?v=ZNS9SAwZY84)
+
+**Significance:**  
+Not only do you need to be careful about Bennett's atk buff tick interval, but also need to be careful not to let atk buff ran out before swapping out of Fischl.
+
+## Fischl's A4 Targetting
+
+**By:** Aluminum\#5462  
+**Added:** 5/29/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/846597421751861288/848319509987196928/transcript-fischl-a4-targets-closest-enemy.html)  
+
+**Theory:**  
+Fischl's A4 Talent targets the closest enemy to the character, not necessarily the enemy on whom a reaction was triggered
+
+**Evidence:**  
+[Video](https://youtube.com/playlist?list=PLPByPR2TubV7Vtj3YaxYYMxBjhrM77qiE)
+
+**Significance:**  
+This is something to keep in mind while managing enemy aura
+
+

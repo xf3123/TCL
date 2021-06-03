@@ -586,23 +586,23 @@ Evidence that this is practicable in the abyss. Timestamps are of heavy hit inst
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/834597054301863965/839387910255280128/transcript-how-to-get-double-swirls.html)
 
 **Finding:**  
-On both Electro-Charged targets and Frozen targets with a simultaneous Hydro aura (where both the Frozen icon and a Hydro icon show up above the target's head), it is possible to get a "double swirl," where both elements (Electro and Hydro in the EC case, or Cryo and Hydro in the Frozen case) are both swirled. This can debuff the enemy's resistance to both elements. In order for a double swirl to occur, the gauge reduction from the Anemo hit must be greater than the Electro gauge (in the case of EC) or the Hydro gauge (in Frozen/Hydro). If two gauges are on the target, and Anemo is not stronger than one of the two, the anemo attack will swirl Electro (for EC) or Hydro (for Freeze/Hydro).
+On both Electro-Charged targets and Frozen targets with a simultaneous Hydro aura \(where both the Frozen icon and a Hydro icon show up above the target's head\), it is possible to get a "double swirl," where both elements \(Electro and Hydro in the EC case, or Cryo and Hydro in the Frozen case\) are both swirled. This can debuff the enemy's resistance to both elements. In order for a double swirl to occur, the gauge reduction from the Anemo hit must be greater than the Electro gauge \(in the case of EC\) or the Hydro gauge \(in Frozen/Hydro\). If two gauges are on the target, and Anemo is not stronger than one of the two, the anemo attack will swirl Electro \(for EC\) or Hydro \(for Freeze/Hydro\).
 
 **Evidence:**  
-*Gauge reduction caused by Anemo must be greater than the hydro gauge (in the case where there is both a Hydro and Freeze aura present) or the Electro aura (in the case of electro-charged) in for a double swirl to occur*
+_Gauge reduction caused by Anemo must be greater than the hydro gauge \(in the case where there is both a Hydro and Freeze aura present\) or the Electro aura \(in the case of electro-charged\) in for a double swirl to occur_
 
-* [2U Hydro, 2U Cryo, 1U Hydro, 2U Anemo](https://www.youtube.com/watch?v=taCemVj_O5U) (double swirl)
-* [2U Hydro, 2U Cryo, 1U Hydro, 1U Anemo](https://youtu.be/YPq9SXFVDYY) (single swirl)
-* [1U Hydro, 2U Electro, 1U Anemo](https://www.youtube.com/watch?v=sICRFyBBI0E&ab_channel=Ayzel) (single swirl)
-* [1U Hydro, 2U Electro, 2U Anemo](https://www.youtube.com/watch?v=sSxmc6zIQH4&feature=youtu.be&ab_channel=Ayzel) (double swirl; the EC reaction reduces the electro gauge low enough for the double swirl to occur)
-* [1U Hydro, 4U Electro, 2U Anemo](https://www.youtube.com/watch?v=GSfwME7zZ2o) (single swirl)
+* [2U Hydro, 2U Cryo, 1U Hydro, 2U Anemo](https://www.youtube.com/watch?v=taCemVj_O5U) \(double swirl\)
+* [2U Hydro, 2U Cryo, 1U Hydro, 1U Anemo](https://youtu.be/YPq9SXFVDYY) \(single swirl\)
+* [1U Hydro, 2U Electro, 1U Anemo](https://www.youtube.com/watch?v=sICRFyBBI0E&ab_channel=Ayzel) \(single swirl\)
+* [1U Hydro, 2U Electro, 2U Anemo](https://www.youtube.com/watch?v=sSxmc6zIQH4&feature=youtu.be&ab_channel=Ayzel) \(double swirl; the EC reaction reduces the electro gauge low enough for the double swirl to occur\)
+* [1U Hydro, 4U Electro, 2U Anemo](https://www.youtube.com/watch?v=GSfwME7zZ2o) \(single swirl\)
 
 A future test of 1U Freeze, 2U Hydro, 2U Anemo is technically necessary to say for certain that the anemo reduction must be greater than the hydro aura in Freeze/Hydro, rather than any one of the gauges present. However, EC works this way and there is no known current method to test the above, so the behavior is currently believed to extend to Freeze/Hydro.
 
-*If the anemo gauge reduction isn't greater, the swirl will be Electro(EC)/Hydro(Freeze)*
+_If the anemo gauge reduction isn't greater, the swirl will be Electro\(EC\)/Hydro\(Freeze\)_
 
-* [2U Hydro, 2U Cryo, 1U Hydro, 1U Anemo](https://youtu.be/YPq9SXFVDYY) (hydro swirl)
-* [2U Electro, 2U Hydro, 1U Anemo](https://youtu.be/vNOgRVMTLWg) (electro swirl)
+* [2U Hydro, 2U Cryo, 1U Hydro, 1U Anemo](https://youtu.be/YPq9SXFVDYY) \(hydro swirl\)
+* [2U Electro, 2U Hydro, 1U Anemo](https://youtu.be/vNOgRVMTLWg) \(electro swirl\)
 
 **Significance:**  
 More knowledge about how swirl works, better rotations and team-building
@@ -621,4 +621,38 @@ More knowledge about how swirl works, better rotations and team-building
 I electro charged in different orders with different application strengths. The result was always an Electro crystal.
 
 **Significance:** Don't expect a Hydro crystal for petra buff on Electro-Charged opponents.
+
+### Crystallize Shields don't Stack
+
+**By:** Terrapin\#8603  
+**Added:** 5/9/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/840107089925505025/840819697393729546/transcript-crystallize-does-not-stack.html)
+
+**Finding:**  
+Shields created from a crystallize reaction do not stack.
+
+**Evidence:** [https://www.youtube.com/watch?v=JBIWuMTYQQk](https://www.youtube.com/watch?v=JBIWuMTYQQk)
+
+The first test in the video shows Noelle picking up a Cryo Crystallize shield and then a Pyro Crystallize shield. She then takes several hits of Cryo damage which breaks the Pyro Crystallize shield. There is no remaining Cryo Crystallize shield.
+
+The second test in the video shows Noelle picking up a Cryo Crystallize shield, and taking many hits of Cryo damage where the shield does not break. If the shields stacked, in the original test the Cryo Crystallize shield should have persisted after the Pyro Crystallize shield was broken.
+
+**Significance:**  
+The player should only pick up correct-element crystallize crystals when fighting enemies dealing specific elemental damage.
+
+### Crystallize refresh
+
+**By:** Terrapin\#8603  
+**Added:** 5/22/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/840102649700286524/845515459915022356/transcript-crystallize-refresh.html)
+
+**Theory:** Crystallize resets when a new one is picked up, and the shield value is based on the character that produced the Crystallize, even if a previous Crystallize generated by a different character is currently on the active character.
+
+**Evidence:** [Youtube](https://www.youtube.com/watch?v=sUppncItiSU)
+
+The first test in the video shows that Noelle's Crystallize on Noelle can take at least 4 hits from attacks that do the same damage without breaking.  
+The second test shows that Zhongli's Crystallize on Noelle can only take 2 hits before breaking on the third hit, taking 1139 damage.  
+The third test shows Noelle's Crystallize on Noelle take a single hit, and then is reset by Zhongli's Crystallize which then takes 2 hits before breaking on the third hit, taking 1139 damage.
+
+**Significance:** Crystallize shields do not stack, and they do not refresh based on a shield being stronger or weaker. Crystallize users should plan accordingly with their character level and Elemental Mastery on the character that will be creating Crystallizes that will be picked up.
 

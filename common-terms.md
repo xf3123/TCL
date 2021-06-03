@@ -5,7 +5,7 @@ description: 'If you need something defined, this is the place.'
 # Glossary
 
 {% hint style="info" %}
-If there are any terms you want defined/redefined, go to [\#server•site•feedback](https://discord.gg/MgekR5Yufx) and make your suggestion there.
+If there are any terms you want defined/redefined, go to [\#server-site-feedback](https://discord.gg/MgekR5Yufx) and make your suggestion there.
 {% endhint %}
 
 ## Character Terms
@@ -150,8 +150,6 @@ Terms used to describe combos, they’re stitched together to describe the strin
 
 **P** = Plunge
 
-\*\*\*\*[**TCF** = ThunderClap Flash \(Keqing Tech\)](https://library.keqingmains.com/characters/electro/keqing#animation-cancels)
-
 **Q** = Elemental Burst
 
 **W** = Walk
@@ -186,7 +184,7 @@ Terms used to describe combos, they’re stitched together to describe the strin
 
 **T\[\#\]** = Talent Level \[1, 2, 3… 10, 11, 12\]
 
-**TC** = Theorycrafter
+**TC** = Theorycrafting
 
 **TF** = Thundering Fury
 

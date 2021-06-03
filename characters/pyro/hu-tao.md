@@ -111,6 +111,7 @@ Each enemy can be affected by only one **Blood Blossom** effect at a time, and i
   * There is a 5-second ICD between instances of particle production
   * Meaning, ideally Hu Tao will generate particles twice while infused
 * Paramita Papilio can be extended with hitlag.
+* When entering Paramita Papilio the knockback will cause the Illusory Bubble from Mona's Stellaris Phantasm to be removed and the Omen debuff applied even though no damage was done.
 {% endtab %}
 
 {% tab title="Spirit Soother" %}
@@ -262,10 +263,8 @@ Triggers when Hu Tao's HP drops below 25%, or when she suffers a lethal strike: 
 
 {% tabs %}
 {% tab title="Animation Cancels" %}
-
 [C1 N1C Dash Cancel](https://i.imgur.com/MrtQfVD.mp4)  
-[N2C Jump Cancel](https://i.imgur.com/z7kGCGB.mp4)  
-
+[N2C Jump Cancel](https://i.imgur.com/z7kGCGB.mp4)
 {% endtab %}
 {% endtabs %}
 
@@ -274,4 +273,8 @@ Triggers when Hu Tao's HP drops below 25%, or when she suffers a lethal strike: 
 * [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Hu_Tao)
 * [Hu Tao Mains Discord](https://github.com/Artesians/TCL/tree/e89e061a34e9f5a67f035c9a7c8e5672b87e227d/characters/pyro/discord.gg/hutaoscorner/README.md)
 * [Hu Tao Guide](https://keqingmains.com/hu-tao/)
+
+### Evidence Vault:
+
+{% page-ref page="../../evidence/characters/pyro/hu-tao.md" %}
 

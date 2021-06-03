@@ -72,7 +72,7 @@ If the Trigger Gauge is greater than the Aura Gauge, a reaction will still occur
 
 > Fischl’s charged shot applies 1A Electro aura and is triggered by Kaeya’s E, applying 2B Cryo. Superconduct occurs, and no aura is left behind as triggers can only remove units, they can’t add aura/gauge.
 
-### Freeze
+## Freeze
 
 Once freeze is triggered, an enemy will be afflicted by a **frozen aura**. This aura hides the hydro aura, and any elements applied to a frozen enemy will react with cryo. Removing the frozen aura, either through melt or shatter, will also remove cryo and expose the hydro aura, allowing any elemental sources to react with hydro again. Even while the hydro aura is hidden under the frozen aura, hydro will continue to decay as normal.
 
@@ -168,6 +168,16 @@ Furthermore, Self Auras have a particular interaction with Elemental Absorptions
 * Bobrokrot\#0111
 * IonFox\#8887
 * Monochrom9\#8058
+
+## Media
+
+### [TenTen](https://www.youtube.com/user/tatecheng1010)
+
+{% embed url="https://youtu.be/ac0cshUwyrM" caption="Tenten\'s Genshin SCIENCE! EGT" %}
+
+### [AoShenCraft](https://www.youtube.com/channel/UCJgiYNvX6zHP1pChMZhqURA)
+
+{% embed url="https://www.youtube.com/watch?v=iSft0tCOdHY" caption="AoShenCraft\'s EGT Simplified \[With Visuals\]" %}
 
 ## **External Links**
 

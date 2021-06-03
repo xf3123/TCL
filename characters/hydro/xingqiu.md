@@ -62,9 +62,8 @@ Xingqiu performs two strikes with his sword, dealing Hydro DMG. At the same time
   * When a character takes DMG, a **Rain Sword** will shatter, reducing the amount of DMG Taken. 20% of his Hydro DMG will be converted to additional DMG Reduction, maximum additional DMG Reduction gained cannot exceed 24%.
   * Increases active character’s resistance to interruption.
   * The initial maximum number of **Rain Swords** is 3.
-  * **Rain Swords** apply Hydro to surrounding enemies once every 2.2s.
+  * **Rain Sword** orbitals apply Hydro to surrounding enemies once every 2.5s.
 * Using this ability applies a very brief 1U Hydro aura onto the character.
-* In melee range, the orbitals will periodically apply hydro onto the enemy.
 
 | Type | Talent 6% |
 | :--- | :--- |
@@ -91,7 +90,7 @@ Push back nearby enemies and activate **Rainbow Bladework**. While under the eff
   * **Sword Rain** waves can be triggered at most once a second. However, so long as you are in an normal attack animation, even if you attack slightly before 1 second has passed, the next **Sword Rain** wave will be triggered as soon as possible.
   * The Normal Attack may be cancelled, but **Sword Rain** wave will still be triggered.
 * The number of **Sword Rain** attacks in each wave cycles in a 2-3 sequence, with the first wave having 2 Sword Rain attacks.
-* **Rain Swords** remain at the maximum number**.**
+* **Rain Swords** remain at the maximum number.
 * **Rain Swords** will not shatter.
 
 | Type | Talent 6% |

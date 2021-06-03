@@ -74,6 +74,7 @@ Zhongli channels for 2 seconds causing the following effects:
 
 * When created, **Stone Stele** deals AoE Geo damage. 
 * Additionally, it will intermittently resonate with other nearby Geo constructs, dealing Geo damage to nearby opponents. 
+* Hits that resonate from other Geo constructs still proc the 4-piece Tenacity of the Millileth set.
 * **Stone Steles** are considered a Geo construct that can be used to block attacks, or climb. 
 * Only one **Stone Stele** created by Zhongli may exist at a time.  
 
@@ -252,7 +253,7 @@ When **Jade Shield** takes DMG, 40% of that incoming DMG is converted to HP for 
 ## **External Links**
 
 * [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Zhongli)
-* [Zhongli Mains Discord](discord.gg/Zhongli)
+* [Zhongli Mains Discord](https://github.com/Artesians/TCL/tree/add5a5e094b1754e073bd265527e5f3194661ecf/characters/geo/discord.gg/Zhongli/README.md)
 * [Zhongli Guide](https://keqingmains.com/zhong-li/)
 
 **Evidence Vault:**

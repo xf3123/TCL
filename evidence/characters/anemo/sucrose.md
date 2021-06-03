@@ -91,3 +91,68 @@ So in essence, Diona's em stacks twice. Same theorem works for Albedo's burst as
 The above suggests the formula for final EM for a buffed party member after Sucrose’s A1 and A4 is  
 50 + \[\(&lt;sucrose em&gt; + &lt;additional party em buffs&gt;\)×0.2\] + &lt;additional em buffs&gt;.
 
+## Sucrose C6 Buff Timer
+
+**By:** Terrapin\#8603  
+**Added:** 5/9/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/840099295344197632/840821871901540362/transcript-sucrose-c6-buff-timer.html)
+
+**Finding:**  
+The buff provided by Sucrose's Constellation 6 \(granting party members a 20% Elemental DMG Bonus based on which element is absorbed by Sucrose's burst\) lasts for 10 seconds.
+
+**Evidence:** [https://www.youtube.com/watch?v=VNVnsEdh29c](https://www.youtube.com/watch?v=VNVnsEdh29c)
+
+The first test in the video establishes that the Sucrose in question has her Constellation 6 active, and that the buff arrows on Sucrose correspond to a 20% Pyro DMG Bonus from her burst absorbing Pyro from Guoba.
+
+The second test shows that, as soon as Sucrose's Elemental Burst absorbs Pyro, Sucrose gets buffed, which lasts for 10 seconds.
+
+The third test shows that even a late absorption of Pyro still results in a 10 second buff.
+
+**Significance:**  
+Teams with C6 Sucrose can plan their absorption time around when they want to utilize her 10 second buff window, either for snapshotting or for general team rotations.
+
+## Sucrose C4 Mechanics
+
+**By:** Sitri\#9504  
+**Added:** 5/11/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/837549621936652309/841878915156279306/transcript-sucrose-c4-mechanics.html)
+
+**Findings:**  
+Remember that Sucrose C4 creates a 7 hit counter, where after 7 hits your E CD is reduced by 1-7s.
+
+Sucrose C4 creates a 7 hit counter when the first normal/charged attack connects an enemy \(hitting the air does not create, nor further the counter\). However, this counter starts whether your E is on cooldown or not. If you do 5 normal attacks, then E and put your E on cooldown, you only need to do 3 more to hit the counter and get your cooldown reduced.
+
+Switching characters does not delete this counter either, and it exists for a very long time, tested up to 30s, so guesstimate is 30s plus. Death also does not delete the counter.
+
+The cooldown reduction hard caps at each charge's cooldown. If you get a higher reduction than the current E charge CD, it will reset, and not carry over to potentially 2nd charge's cooldown.  
+Example: E is on 3s CD, you get a 5s CD reduction, you instantly gain E charge and timer start at 15s for the remaining charge.
+
+Sucrose C4 CD reduction probability distribution:  
+[Google Sheets](https://docs.google.com/spreadsheets/d/1jMODclkPguPHpTsLmGafbvQKIcXk1ddc9NWYPjhqqsc/edit?usp=sharing)  
+[Image \(Graph\)](https://cdn.discordapp.com/attachments/837549621936652309/837957383111049216/unknown.png)  
+Although the distribution does not fit nicely into the Gaussian curve, mean ~ 4s suggests there is no overly skewed cooldown reduction to either lower or higher bound, at large N.
+
+**Evidence:**  
+Switching character does not reset Sucrose counter: [Video](https://www.youtube.com/watch?v=Q32IuH-Eu9g)  
+Counter starts whether your E is on CD or not: [Video](https://youtu.be/Q2zyolyA8r0)  
+Counter exists for 30s+: [Video](https://youtu.be/qTboBW3A7Qw)
+
+**Significance:**  
+This very slightly makes on field enabler Sucrose comps better, as swapping on Sucrose is very lenient + better understanding of Sucrose C4 RNG.
+
+## Sucrose freeze and petrify burst interaction
+
+**By:** hz\#4084  
+**Added:** 5/23/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/839639101825089556/845824358214795324/transcript-sucrose-q-cc-and-freeze-interaction.html)
+
+**Findings:** Sucrose's burst normally pulls smaller enemies towards the center, and knocks back all enemies with each pulse. Freeze and petrify prevents the knockback but does not prevent the SUCC on smaller enemies.
+
+**Evidence:**
+
+* Example on smaller enemies: [Link](https://cdn.discordapp.com/attachments/839639101825089556/839639647784927252/Genshin_Impact_2021.05.06_-_00.56.09.05.mp4)  
+* Example on larger enemy: [Link](https://cdn.discordapp.com/attachments/839639101825089556/839639679774883840/Genshin_Impact_2021.05.06_-_00.59.11.06.mp4)
+* Petrify: [Link](https://cdn.discordapp.com/attachments/839639101825089556/839650961516527658/Genshin_Impact_2021.05.06_-_01.51.25.08.mp4)
+
+**Significance:** Sucrose's Burst can be used in conjunction with freeze or petrify to group enemies very tightly together without knocking them away from the center.
+
