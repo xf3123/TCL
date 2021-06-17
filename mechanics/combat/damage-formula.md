@@ -131,6 +131,8 @@ $$
 
 ## Transformative Reaction Bonus
 
+{% hint style="info" %} The formula below has been updated for the new 1.6 EM changes.{% endhint %}
+
 $$
 \begin{align}
 TransformativeReaction = &
@@ -143,15 +145,20 @@ TransformativeReaction = &
 0 & \text{otherwise}
 \end{cases}
 \\
-& \times \biggl( 1 + \frac{6.66 \times EM}{1400 + EM} + ReactionBonus \biggr)\\
+& \times \biggl( 1 + \frac{16 \times EM}{2000 + EM} + ReactionBonus \biggr)\\
 & \times LevelMultiplier \times EnemyResistanceMultiplier
 \end{align}
 $$
 
 $$
 \begin{align}
-LevelMultiplier \approx &\ 0.0002325 \times LvlCharacter^{3} + 0.05547 \times LvlCharacter^{2} \\
-& - 0.2523 \times LvlCharacter + 14.74
+LevelMultiplier \approx &
+\begin{cases}
+0.0002325 &\times CharLvl^{3} + 0.05547 \times CharLvl^{2} & \\
+&- 0.2523 \times CharLvl + 14.47 & \text{if, } CharLvl < 60 \\
+0.00194 &\times CharLvl^{3} - 0.319 \times CharLvl^{2} & \\
+&+ 30.7 \times CharLvl - 868 & \text{if, } CharLvl \geq 60\\
+\end{cases}
 \end{align}
 $$
 

@@ -69,7 +69,7 @@ Chongyun strikes the ground in front of him dealing AoE Cryo DMG. After a short 
 | Infusion Duration | 2.5s |
 | Field Duration | 10s |
 | Cooldown | 15s |
-| Particles | 3~4 \(1:1\) |
+| Particles | 4 \(-\) |
 | Cast GU | 2B |
 | Infused Attack GU | 1A |
 | Frames | 57 |

@@ -72,7 +72,7 @@ Xingqiu performs two strikes with his sword, dealing Hydro DMG. At the same time
 | Duration | 15s |
 | Cooldown | 21s |
 | GU | 2 x 1A |
-| Particles | 4-5 \(1:1\) |
+| Particles | 5 \(-\) |
 | Frames | 82 |
 | MV/s | 368%/s |
 

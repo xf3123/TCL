@@ -2,6 +2,8 @@
 
 ## Basic Eula Mechanics
 
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/843239715515269160/851726463068536872/transcript-eula-basic-mechanics-findings.html)
+
 ### Attack Attributes
 
 * Gauges - Neptunya\#8291
@@ -80,9 +82,31 @@
 * Whenever you consume a Grimheart stack, no matter the amount of stacks consumed, Eula's Physical DMG is increased by 30% for a base of 6 seconds + 6 per Grimheart stack. - [Sonickid15\#1738](https://www.youtube.com/watch?v=SFaejhz3Rik)
   * So 1 stack is 12 seconds and 2 is 18 seconds
 
+### C4
+
+* Eula's C4 is an additive damage bonus and applies to both [A1](https://www.youtube.com/watch?v=LvCnRGgXtng) and [Burst](https://www.youtube.com/watch?v=xOPo02MP6gU). - Striss\#0557
+
 ### Broken Pines Synergy
 
 * Broken Pines attack speed increase between R1-R5 does not increase your stack count with optimal combos. However, it does make your combo timings a lot less strict and comfier. - Artesians\#0002 and Sitri\#9504
   * Test was done with an [Attack speed increase abyss card](eula.md)
   * Also checks out with [math](https://cdn.discordapp.com/attachments/843239715515269160/844498188303335444/unknown.png)
 
+## Eula Swap Buff
+
+**By:** Sir_pick_the_prick#2209 & Senovit#8237 & Greyhound#7836  
+**Added:** 6/14/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/845173856271597578/854016900095016960/transcript-eula-swap-buff.html)
+
+**Finding:**  
+Eulas burst does not snapshot even after she is swapped offield, allowing for the opportunity to apply team buffs after Eulas ult is used but before it hits (23 frame window) , thus increasing Eulas ult damage. This applies to 4no, rosarias crit buff and certain users of 4tom
+
+**Evidence:** 
+
+* <https://youtu.be/oWJQOgDSJDk> and <https://youtu.be/6ThAiLjeSfA> for 4pc Noblesse Oblige proof
+* <https://youtu.be/1tor1JeT-Hg> for Rosaria crit share buff
+* <https://youtu.be/p_cr_tGKXV8> for Diona swap buff
+* <https://youtu.be/Efp8593Wrmk> for Xinyan buff
+
+**Signficance:**  
+Allows for better burst cycles. 

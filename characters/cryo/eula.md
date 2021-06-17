@@ -128,6 +128,7 @@ If Eula leaves the field, the **Lightfall Sword** will immediately explode.
 * Ranges \(1 abyss tile is ~2.55m\)
   * **Glacial Illumination**'s cast range is around 8 meters
   * **Lightfall Sword** explosion range is around 7 meters
+* Eula's burst does not snapshot even after she is swapped off-field, allowing for a 23 frame window to apply team buffs and increase her burst's damage. 
 {% endtab %}
 {% endtabs %}
 
@@ -184,6 +185,8 @@ Increases the level of Glacial Illumination by 3.
 ### The Obstinacy of One's Inferiors
 
 Lightfall Swords deal 25% increased DMG against opponents with less than 50% HP.
+
+* This effect is additive and applies to both her Lightfall Sword from **Glacial Illumination** \(Burst\) and the Lightfall Remnants from **Roiling Rime** \(A1\).
 {% endtab %}
 
 {% tab title="C5" %}
@@ -265,7 +268,9 @@ Broken Pines attack speed increase from its passive, **Rebel’s Banner Hymn**, 
 
 ## **External Links**
 
-* [Honey Hunters](https://genshin.honeyhunterworld.com/db/char/eula/)
+* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Eula)
+* [Eula Mains Discord](https://discord.gg/EulaMains)
+* [Basic Eula Guide](https://keqingmains.com/eula/)
 
 **Evidence Vault:**
 

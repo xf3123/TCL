@@ -4,6 +4,8 @@ description: 'Overload, Superconduct, Electro-Charged, Shatter, Swirl, and Cryst
 
 # Transformative Reactions
 
+{% hint style="info" %} The formula below has been updated for the new 1.6 EM changes.{% endhint %}
+
 $$
 \begin{align}
 TransformativeReaction = &
@@ -16,25 +18,34 @@ TransformativeReaction = &
 0 & \text{otherwise}
 \end{cases}
 \\
-& \times \biggl( 1 + \frac{6.66 \times EM}{1400 + EM} + ReactionBonus \biggr)\\
+& \times \biggl( 1 + \frac{16 \times EM}{2000 + EM} + ReactionBonus \biggr)\\
 & \times LevelMultiplier \times EnemyResistanceMultiplier
 \end{align}
 $$
 
 $$
 \begin{align}
-LevelMultiplier \approx &\ 0.0002325 \times LvlCharacter^{3} + 0.05547 \times LvlCharacter^{2} \\
-& - 0.2523 \times LvlCharacter + 14.74
+LevelMultiplier \approx &
+\begin{cases}
+0.0002325 &\times CharLvl^{3} + 0.05547 \times CharLvl^{2} & \\
+&- 0.2523 \times CharLvl + 14.47  & \text{if, } CharLvl < 60 \\
+0.00194 &\times CharLvl^{3} - 0.319 \times CharLvl^{2} & \\
+&+ 30.7 \times CharLvl - 868 & \text{if, } CharLvl \geq 60\\
+\end{cases}
 \end{align}
 $$
 
-Transformative reactions cannot crit and scale only on Elemental Mastery and character level, meaning they don't scale very well compared to amping reactions \(melt/vaporize\) in current late-game content. They are effected by elemental resistance to the type of damage the reaction deals.
+Transformative reactions cannot crit and scale only on Elemental Mastery and character level. They are effected by elemental resistance to the type of damage the reaction deals.
+
+Shatter, Superconduct, and Swirl have internal cooldowns and can only deal damage twice within the span of 0.5 seconds. Overload can only deal damage once every 0.5 seconds.
 
 ## **Overload**
 
 Overload is an elemental reaction triggered by applying Pyro on a target already afflicted by an Electro aura or vice versa. Overload will cause an explosion of Pyro damage to occur that will destroy Geo shields quickly. Triggering Overload in an AoE will only cause one instance of Overload damage.
 
 * You can trigger Overload on electrocuted bodies of water.
+
+Overload has a reaction specific ICD of 0.5 sec where enemies overloaded or hit by the aoe caused by an overload procced by one character are then immune to the damage caused by overload procced by that character for 0.5 seconds. They still suffer gauge reduction and stagger, even without taking damage.
 
 ## **Superconduct**
 
@@ -52,11 +63,13 @@ Electro-Charged is a special Transformative reaction that breaks the normal conv
 
 ## Shatter
 
-Blunt attacks \(such as Claymores, Geo, Klee's bombs, etc\) will apply Shatter on Frozen targets before any Elemental damage is dealt, preventing you from Melting or Vaporizing. Blunt attacks also have no ICD, meaning shatter will always be triggered on a frozen enemy. Attacks that apply Shatter have different GU values, refer to the [Evidence Vault](https://library.keqingmains.com/evidence/mechanics/combat/elemental-reactions/transformative-reactions#various-gu-values-of-shatter-based-on-different-types-of-attacks) for extended reading on Shatter GU by Bobrokrot.
+Blunt attacks \(such as Claymores, Geo, Klee's bombs, etc\) will apply Shatter on Frozen targets before any Elemental damage is dealt, preventing you from Melting or Vaporizing. Attacks that apply Shatter have different GU values, refer to the [Evidence Vault](https://library.keqingmains.com/evidence/mechanics/combat/elemental-reactions/transformative-reactions#various-gu-values-of-shatter-based-on-different-types-of-attacks) for extended reading on Shatter GU by Bobrokrot.
 
 ## Frozen
 
 Frozen is an elemental reaction triggered by applying Cryo on a target already afflicted by a Hydro aura or vice versa. If the Frozen aura expires or is Shattered, any underlying Hydro or Cryo aura will persist, note that the Cryo or Hydro application to trigger Frozen will consume the appropriate amount of aura.
+
+Applying a 2U Hydro -> 1U Cryo aura will cause the enemy to be affected by both frozen and hydro. However, applying a 1U Cryo -> 2U Hydro will only cause the enemy to be affected by frozen.
 
 Additionally, one reaction occurs at a time, if you apply Pyro to a Freeze aura that has an underlying Hydro aura, only the Melt occurs. If the underlying aura is Cryo, Cryo can Melt, so the Melt will reduce both the Freeze and the original Cryo aura. Some reactions effect both, others only effect one.
 
@@ -69,8 +82,6 @@ Additionally, one reaction occurs at a time, if you apply Pyro to a Freeze aura 
 | Crystallize | Shatter | ✔️ | ✔️ |
 
 The duration of Freeze is dependent on the lowest gauge element when it is triggered, regardless of their order. It scales non-linearly with the aura strength of Hydro and Cryo.
-
-‌
 
 ![Full Graph: https://www.desmos.com/calculator/jwzecgzmld](https://lh6.googleusercontent.com/tLWq_98umk5Rn-YU_WLdlweAiXhhtW8GoNnHBDkwYOlGcBYUNEbZ9APjau0DTIQO3rknFiMpm0alaWnFWaXZHxdoA0uNNkcz19YaFV4PeWZAhTWxBk9srGKQKdHyenyUwlPrtk8l)
 
@@ -101,7 +112,7 @@ Crystallize is an elemental reaction triggered by applying Geo on a target affli
 * Triggering Crystallize on an Electro-Charged target will provide an Electro Crystal.
 * Picking up multiple crystals refreshes the duration of the shield and its element type.
 
-## Evidence Vault:
+## Evidence Vault
 
 {% page-ref page="../../../evidence/mechanics/combat/elemental-reactions/transformative-reactions.md" %}
 

@@ -76,7 +76,7 @@ Deal AoE Pyro Damage around Xinyan and summon a shield.
 | L3 **Rave** | 201.6%Def + 1097 |
 | Duration | 12s |
 | Cooldown | 18s |
-| Particles | 3~4 \(1:9\) |
+| Particles | 4 \(-\) |
 | Intial hit GU | 1A |
 | Rave GU | 1A |
 {% endtab %}
@@ -128,7 +128,7 @@ Characters shielded by Sweeping Fervor deal 15% increased Physical DMG.
 {% tab title="C1" %}
 ## Fatal Acceleration
 
-Upon scoring a CRIT hit, increases ATK SPD of Xinyan's Normal and Charged Attacks by 12% for 5s. Can only occur once every 5s.
+Upon scoring a CRIT hit, increases ATK SPD of Xinyan's Normal and Charged Attacks by 12% for 5s. Can only occur once every 5s. (can trigger vs shielded enemies)
 {% endtab %}
 
 {% tab title="C2" %}

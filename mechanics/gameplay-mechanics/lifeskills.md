@@ -32,6 +32,7 @@ Destroying Artifacts will give mora equal to the amount of artifact XP. While de
 
 | Rarity | Artifact XP | Mora from Destroying |
 | :--- | :--- | :--- |
+| 4 Star | 2520 | 2520 |
 | 3 Star | 1260 | 1260 |
 | 2 Star | 840 | 840 |
 | 1 Star | 420 | 420 |
@@ -46,7 +47,8 @@ Destroying Artifacts will give mora equal to the amount of artifact XP. While de
 
 #### Can't be Destroyed:
 
-* 5\* or 4\* artifacts and weapons 
+* 5\* artifacts
+* 5\* or 4\* Weapons
 * Refined 3\* weapons
 * Character Development Materials
 * Food \(except apples and sunsettia\)
@@ -84,6 +86,12 @@ Blue \(XP\) leylines are more stardust-efficient than Gold \(Mora\) leylines.
 **By:** [Creonalia\#2818 ](../../evidence/mechanics/gameplay-mechanics/lifeskills.md#wood-daily-drop-limit)
 
 You can only collect 2,000 of any specific wood per day. This limit resets at server reset and cannot be reset by relogging/teleporting.
+
+## Statue of the Seven Healing
+
+**By:** [Asaki\#9139](https://library.keqingmains.com/evidence/mechanics/gameplay-mechanics/lifeskills#statue-of-seven-healing)
+
+If you place a character in a party that is not at full HP or fainted and swap to a different party, you can heal and revive them without consuming Statue of the Seven HP.
 
 ## Evidence Vault
 

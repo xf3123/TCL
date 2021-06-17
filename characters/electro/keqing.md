@@ -81,7 +81,7 @@ When Keqing uses a Charged Attack while the **Stiletto Mark** is on field she wi
 | Thunderclap Slash | 117.6% + 117.6% | 90 | 401.9%/s |
 | CD | 7.5s |  |  |
 | GU | 2B |  |  |
-| Particles | 2~3 \(9:1\) |  |  |
+| Particles | 2~3 \(1:1\) |  |  |
 
 * Keqing's second **Stellar Restoration** cast is buffered during her dash.
 * Keqing can gain 2 stacks of 4pc Pale Flame in one cast of **Stellar Restoration** by dropping a **Stilleto Mark** on a enemy and performing a charge attack.
@@ -263,7 +263,8 @@ Furthermore, to actively make use of this combo, it requires Keqing to be paired
 
 * [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Keqing)
 * [Keqing Mains Discord](https://discord.gg/Keqing)
-* [Keqing Guide](https://keqingmains.com/keqing/)
+* [Full Keqing Guide](https://keqingmains.com/keqing/)
+* [8 Minute Video Guide to Keqing](https://youtu.be/A9_k6p52N1o)
 
 **Evidence Vault:**
 

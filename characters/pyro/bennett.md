@@ -68,9 +68,9 @@ Bennett strikes once, dealing Pyro DMG.
 
 | Type | Talent 6% | Cooldown | GU | Particles | Frames | Motion Value |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| E Press | 192.64% | 5s | 2B | 2 | 52 | 222.3%/s |
-| Level 1 | 117.6% + 128.8% | 7.5s | 2 x 1A | 3 | 112 | 132%/s |
-| Level 2 | 123.2% + 134.4% | 10s | 2 x 1A | 3 | 197 | 134.7%/s |
+| E Press | 192.64% | 5s | 2B | 2 \(-\) | 52 | 222.3%/s |
+| Level 1 | 117.6% + 128.8% | 7.5s | 2 x 1A | 3 \(-\) | 112 | 132%/s |
+| Level 2 | 123.2% + 134.4% | 10s | 2 x 1A | 3 \(-\) | 197 | 134.7%/s |
 | Explosion | 184.8% | ~ | 1A | ~ | ~ | ~ |
 
 * Max hold duration is 2 seconds, after which Bennett will use a Level 2 Passion Overload by default. 
@@ -101,6 +101,7 @@ Bennett performs a jumping attack to create **Inspiration Field**, dealing Pyro 
 | Frames | 51 |
 
 * Bennett field does not apply the buffs instantaneously on swap. **Inspiration Field** applies the ATK bonus and healing on the same tick every second. If you swap after the tick occurs, you will need to wait for the next tick to receive the ATK bonus.
+  * Additionally, **Inspiration Field**'s buff lingers for a bit after the visual of the circle fades away.
 * **Inspiration Field's** ATK Bonus and **C6: Fire Ventures with Me** Pyro DMG Bonus will apply on its damage calculation.
 * The bonus ATK from **Inspiration Field** ONLY scales with Bennett's base attack.
 * When in coop with multiple Bennetts, the bonus ATK prioritizes the **Inspiration Field** that applied the bonus first.
@@ -157,11 +158,11 @@ Increases the level of Passion Overload by 3.
 {% tab title="C4" %}
 ### Unexpected Odyssey
 
-Using a Normal Attack when executing the second attack of Passion Overload’s Charge Level 1 allows an additional attack to be performed. This additional attack does 135% of the second attack’s DMG.
+Using a Normal Attack when executing the second attack of Passion Overload’s Charge Level 1 allows an additional attack to be performed. This additional attack does 135% of the second attack’s DMG and applies 1A Pyro.
 
-| Attack | Talent 6% | Talent 9% | Motion Value |
+| Attack | Talent 6% | Talent 9% | GUs |
 | :--- | :--- | :--- | :--- |
-| Passion Overload Level 1 + Normal Attack | 117.6% + 128.8% + 173.88% | 149.6% + 163.2% + 220.3% |  |
+| Passion Overload Level 1 + Normal Attack | 117.6% + 128.8% + 173.88% | 149.6% + 163.2% + 220.3% | 3 \* 1A |
 {% endtab %}
 
 {% tab title="C5" %}
@@ -248,8 +249,9 @@ Sword, Claymore, or Polearm-wielding characters inside Fantastic Voyage’s radi
 
 ## **External Links**
 
-* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Bennett)
-* [**Bennett Mains Discord**](https://discord.gg/qrjeEyejsd)
+* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Bennett)
+* [Bennett Mains Discord](https://discord.gg/qrjeEyejsd)
+* [Full Bennett Guide: Bennett's Adventure Log](https://keqingmains.com/bennett/)
 
 **Evidence Vault:**
 

@@ -67,10 +67,10 @@ Xiao lunges forward, dealing Anemo DMG to opponents in his path.
 Can be used mid-air.  
 Starts with 2 charges.
 
-| Type | Talent 6 DMG% | Frames | Motion Value |
-| :--- | :--- | :--- | :--- |
-| Skill DMG | 353.92% | 36 | 589.9%/s |
-| CD | 10s | ~ | ~ |
+| Type | Talent 6 DMG% | Frames | Motion Value | Particles |
+| :--- | :--- | :--- | :--- | :--- |
+| Skill DMG | 353.92% | 36 | 589.9%/s | 3 \(-\) |
+| CD | 10s | ~ | ~ | ~ |
 
 * A Double E Cast is only 60 frames long.
 {% endtab %}
@@ -211,7 +211,7 @@ While under the effect of Bane of All Evil, hitting at least 2 opponents with Xi
 
 * [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Xiao)
 * [Xiao Mains Discord](https://discord.gg/Xiao)
-* [Xiao Guide](https://keqingmains.com/xiao/)
+* [Full Xiao Guide](https://keqingmains.com/xiao/)
 
 **Evidence Vault:**
 

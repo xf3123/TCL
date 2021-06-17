@@ -74,10 +74,10 @@ Creates a vaccum that lifts enemies and moves them towards the blade.
 | :--- | :--- |
 | Skill DMG | 408.80% |
 | Max duration | 5s |
-| Particles | 2~3 \(1:1\) |
+| Particles | 2~3 \(1:2\) |
 | GU | 2U |
 | Cooldown | 6s |
-| Cast frames | 23 |
+| Cast frames | 46 |
 {% endtab %}
 
 {% tab title="Dandelion Breeze" %}
@@ -86,7 +86,8 @@ Jean creates **Dandelion field** dealing AoE Anemo DMG and heals the party insta
 * Cast also knocks away light enemies.
 * The **Dandelion field** deals Anemo damage to enemies crossing the border of the field.
 * Heals and applies Anemo continuously to the active character inside the field cleansing debuffs.
-  * The continuous swirling of auras allows elements to spread to surrounding opponents when self-afflicted with an element
+  * The continuous swirling of auras allows elements to spread to surrounding opponents when self-afflicted with an element.
+    * With precise timing, anemo can be the aura for self-swirls occasionally. 
 
 | Effect | Talent 6% / Data |
 | :--- | :--- |
@@ -230,7 +231,7 @@ Incoming DMG is decreased by 35% within the Field created by Dandelion Breeze. U
 ## **External Links**
 
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Jean)
-* [**Jean Mains Discord**](https://discord.gg/TYVy95Qp7w)
+* [**Jean Mains Discord**](https://discord.gg/fSw9xXSyTe)
 
 **Evidence Vault:**
 

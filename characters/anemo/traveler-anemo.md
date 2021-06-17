@@ -6,7 +6,7 @@ description: >-
 
 # Traveler \(Anemo\)
 
-## ![](https://github.com/Artesians/TCL/tree/bf22a8ef907e2e909fc029e0331273f8082a54b3/.gitbook/assets/element_anemo%20%281%29.png) Traveler \(Anemo\)
+## ![](../../.gitbook/assets/element_anemo.png) Traveler \(Anemo\)
 
 ![](../../.gitbook/assets/anemo-traveler.png)
 
@@ -110,7 +110,7 @@ If the **Vortex** comes into contact with Hydro/Pyro/Cryo/Electro, it will deal 
 | Initial Storm DMG | 246% | 1GU | ~ |
 | Max Storm DMG | 269% | 1GU | ~ |
 | Base Cooldown | 5s | ~ | 2 |
-| Max Charge Cooldown | 8s | ~ | 2~4 \(1:9:1\) |
+| Max Charge Cooldown | 8s | ~ | 3~4 \(2:1\) |
 {% endtab %}
 
 {% tab title="Gust Surge" %}
@@ -256,7 +256,8 @@ If an Elemental Absorption occurred, then their RES towards the corresponding El
 
 ## **External Links**
 
-* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Traveler)
+* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Traveler)
+* [Full Anemo Traveler Guide](https://keqingmains.com/anemo-traveler/)
 
 **Evidence Vault:**
 

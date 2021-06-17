@@ -65,8 +65,7 @@ Releases a homing **Lightning Orb**.
 
 * On hit, it deals Electro DMG, and applies a stack of the **Conductive** status \(Max 3 stacks\) to opponents in a small AoE.
 
-**Hold**
-
+**Hold**  
 After an extended casting time, calls down lightning from the heavens, dealing massive Electro DMG to all nearby opponents.
 
 * Deals extra damage to opponents based on the number of **Conductive** stacks applied to them.
@@ -83,6 +82,7 @@ After an extended casting time, calls down lightning from the heavens, dealing m
 | Holding CD | 16s | ~ | ~ |
 | Press GU | 1A | ~ | ~ |
 | Hold GU | 2B | ~ | ~ |
+| Hold Particles | 5 \(-\) | ~ | ~ |
 
 * The **Lightning Orb** bounces to nearby targets with the small AoE spreading **Conductive** stacks each bounce
   * This means in tight enough groups, it can apply all 3 stacks in a single Press E

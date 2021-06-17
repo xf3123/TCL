@@ -214,3 +214,13 @@ shield snapshot difference
 
 **Significance:** This makes Beidou's particle production way easier to count.
 
+## Beidou C4 Gauge
+
+**By:** Bobrokrot\#0111  
+**Added** 6/3/2021  
+[**Discussion**](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/849312911180693545/849896321023475742/transcript-beidou-c4-gauge.html)
+
+**Finding:** Beidou's C4 applies 1A of Electro.
+
+**Evidence:** [https://youtu.be/nBGPVp0160I](https://youtu.be/nBGPVp0160I)
+

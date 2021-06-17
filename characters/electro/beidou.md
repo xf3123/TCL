@@ -167,9 +167,12 @@ Increases the level of Tidecaller by 3.
 {% tab title="C4" %}
 ### Stunning Revenge
 
-Within 10s of taking DMG, Beidou’s Normal Attacks and Charged Attacks gain 20% additional Electro DMG.
+Within 10s of taking DMG, Beidou’s Normal Attacks and Charged Attacks gain 20% additional Electro DMG echo that applies 1A Electro.
 
-* This is an echo effect.
+| Name | GUs |
+| :--- | :--- |
+| Stunning Revenge | 1A |
+
 * Use N2 cancels to maximize Electro DMG.
 {% endtab %}
 
@@ -271,6 +274,7 @@ Beidou's **Thunderbeast's Targe** is snapshot on-cast, but The Unforged has an A
 * [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Beidou)
 * [Beidou Mains Discord](https://discord.gg/rgS2f9dBxb)
 * [Beidou Guide: Tales from the Sea](https://keqingmains.com/beidou/)
+* [6 Minute Video Guide to Beidou](https://www.youtube.com/watch?v=AWlLidtFiDw)
 
 **Evidence Vault:**
 

@@ -77,11 +77,11 @@ Mona dashes backwards before placing a Phantom of Fate down.
 
 * Only one **Phantom** created by **Mirror Reflection of Doom** can exist at any time.
 
-| **Type** | **Talent 6%** | Frames | MV/s | **GU** |
-| :--- | :--- | :--- | :--- | :--- |
-| DoT | 44.8% | 60 | 44.8%/s | 1A |
-| Explosion DMG | 185.92% | ~ | ~ | 1A |
-| CD | 12s | ~ | ~ | ~ |
+| **Type** | **Talent 6%** | Frames | MV/s | **GU** | Particles |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| DoT | 44.8% | 60 | 44.8%/s | 1A | ~ |
+| Explosion DMG | 185.92% | ~ | ~ | 1A | 3~4 \(2:1\) |
+| CD | 12s | ~ | ~ | ~ | ~ |
 
 * Mona can dash before **Mirror Reflection of Doom** finishes casting, which leads to no **Phantom** being created.
 {% endtab %}
@@ -126,6 +126,8 @@ Traps opponents inside a pocket of destiny and also makes them Wet. Renders weak
 * Bubble Burst DMG is determined at the time the Bubble is actually triggered, rather than snapshotting on immediate cast.
 * **Omen** DMG Bonus is additive to the damage calculation and is classified as **DamageBonus**
   * See: [Damage Formula](https://library.keqingmains.com/mechanics/combat/damage-formula#base-damage)
+* **Illusory Bubble**'s duration can be extended on specific enemies while they are performing specific actions.
+  * The enemies that this works on are: Shielded Lawachurl, leaping Geovishap, Shielded Pyrogunner, and Shielded Geochanter 
 {% endtab %}
 {% endtabs %}
 

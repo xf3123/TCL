@@ -108,6 +108,7 @@ Summons a meteorite that deals Geo damage and launches small enemies
 | Duration | 30s |
 | Cooldown | 8s |
 | GU | 2U |
+| Particles | 3~4 \(2:1\) |
 | Frames |  |
 | Motion Value |  |
 {% endtab %}
@@ -258,7 +259,8 @@ The meteorite created by Starfell Sword lasts 10s longer.
 
 ## **External Links**
 
-* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Traveler)
+* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Traveler)
+* [Full Geo Traveler Guide](https://keqingmains.com/geo-traveler/)
 
 **Evidence Vault:**
 

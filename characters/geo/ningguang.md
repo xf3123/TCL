@@ -67,7 +67,7 @@ Ningguang creates a **Jade Screen** that deals AoE Geo DMG and possess the follo
 | HP | 66% |
 | Cooldown | 12s |
 | GU | 1U |
-| Particles | 3~4 \(1:9\) |
+| Particles | 3~4 \(3:2\) |
 | Frames |  |
 | Motion Value |  |
 {% endtab %}

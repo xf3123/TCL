@@ -83,7 +83,7 @@ The shield’s DMG Absorption scales based on Diona’s Max HP, and its duration
 | Duration | 2.3s per Claw |
 | Press Cooldown | 6s |
 | Hold Cooldown | 15s |
-| Particles | 1 per **Icy Paw** hit |
+| Particles | 0~1 \(1:4\) check per paw |
 | Frames | 15 Press ~ 24 Hold |
 | MV/s | 469.5%/s Press ~ 733.6%/s Hold |
 
@@ -244,8 +244,9 @@ The Elemental Mastery bonus will apply immediately on swap and linger for 2 seco
 
 ## **External Links**
 
-* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Diona)
-* [**Diona Mains Discord**](https://discord.gg/JkeJWTtzGT)
+* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Diona)
+* [Diona Mains Discord](https://discord.gg/JkeJWTtzGT)
+* [Full Diona Guide](https://keqingmains.com/diona/)
 
 **Evidence Vault:**
 

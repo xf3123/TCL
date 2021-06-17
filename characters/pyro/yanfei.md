@@ -127,10 +127,11 @@ When Yan Fei's Charged Attacks deal CRIT Hits, she will deal an additional insta
 
 | Type | Talent % | GU | Damage Type |
 | :--- | :--- | :--- | :--- |
-| Xiezhi's Eye | 80% | 1A | Charged Attack |
+| Blazing Eye | 80% | 1A | Charged Attack |
 
 * **Blazing Eye** no noticeable ICD to trigger or pyro application.
   * This is on a separate ICD from her charged attack.
+* **Blazing Eye** can trigger vs enemy shields.
 {% endtab %}
 {% endtabs %}
 
@@ -237,7 +238,6 @@ Increases the maximum number of Scarlet Seals by 1.
 
 ## **External Links**
 
-* [Honey Hunters](https://genshin.honeyhunterworld.com/db/char/feiyan/)
 * [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Yanfei)
 
 **Evidence Vault:**
