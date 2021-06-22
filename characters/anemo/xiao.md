@@ -40,6 +40,7 @@ Xiao performs up to six consecutive spear strikes.
 
 **Charged Attack**  
 Consumes 25 Stamina to perform an upward thrust.
+* Xiao's Charged Attacks share an ICD on Anemo application with his Normal Attacks when under the effects of Bane of All Evil.
 
 | String | Talent 6 DMG% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
@@ -84,6 +85,7 @@ Xiao dons the Yaksha Mask that set gods and demons trembling a millennia ago.
 * Increases his attack AoE and attack DMG.
 * Converts attack DMG into Anemo DMG, which cannot be overridden by any other elemental infusion. 
 * Xiao will continuously lose HP during this state. 
+* Xiao's attacks will be infused with 1GU Anemo.
 
 | Effect | Talent 6% |
 | :--- | :--- |

@@ -1,5 +1,9 @@
 # Bugs
 
+**Main Page:**
+
+{% page-ref page="../../mechanics/gameplay-mechanics/bugs.md" %}
+
 ## Abyss
 
 ### Using the Same Team for Both Abyss Halves
@@ -38,6 +42,51 @@
 **Evidence:** [Youtube](https://youtu.be/R5D-seBcdnU)
 
 **Significance:** Time to farm your eggs and lizards guys
+
+### Aiming Harpastum
+
+**By:** Iron IV#3832  
+**Added:** 06/20/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/842575899408203846/846689845517877268/transcript-mona-e-bug.html)
+
+**Bug:** Throwing a harpastum while entering aim mode can force your camera into third person while aiming
+
+**Evidence:** (https://youtu.be/eO-l1h-f2p4)
+
+**Significance:** You can view aimed mode shots in third person without any friends
+
+## Lag
+
+### Netlimited Blade Works
+
+**By:** Ayzel\#7399  
+**Added:** 6/16/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/838967062184984636/854582115995877397/transcript-high-ping-multiple-orbital-application.html)  
+
+**Finding:**  
+Xingqiu's orbital rain swords can apply hydro multiple times in a short duration with high ping. The higher the ping, the more times the orbitals will apply hydro.
+
+**Evidence:**  
+High Ping Test: <https://youtu.be/k2f2aAR4AS4>  
+Low Ping Test: <https://www.youtube.com/watch?v=KJTw7EnDtNU&ab_channel=Ayzel>
+
+**Significance:**  
+Fast shield-breaking tech, can apply hydro very fast to allow more vapes in Xingqiu teams where pyro units would typically apply too much pyro to consistently vape pyro hits.
+
+### Lag and Snapshot Interactions
+
+**By:** Soup420\#1634  
+**Added:** 04/19/2021  
+_\*\*_[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/826181971545292880/834198195352764446/transcript-lag-and-snapshot-interactions.html)
+
+**Finding:** Skills that snapshot character stats like attack and hp are probably snapshotted client side and sent to server to be confirmed. The same applies to skills that actually apply the buff, like Bennett buff and Hutao buff which both apply their buffs without the need for server connection. However, HP can't be changed without server connection so it results in weird interactions with Hutao or Bennett buffs.
+
+Skills that are dependent on enemy HP values like Diluc c1 or Albedo A2 are applied server-side, and from the findings lag doesn't cause any unexpected damage numbers. This probably implies all damage done is calculated by the server, but using the stats sent from the player client.
+
+**Evidence:**
+
+* [Bennett overheal](https://www.youtube.com/watch?v=aIMPpFMJFSk)
+* [Diluc C1 not benefitting](https://www.youtube.com/watch?v=NSC2BhkhcJo)
 
 ## Artifacts
 
@@ -120,21 +169,6 @@ Until patched, Ganyu, Ning, and Beidou should not hold 4NO buffs as they cannot 
 * These stacks can be maintained in the open world, so if you want to do something like kill the cryo regisvine in 4 seconds you can do that
 * You have to press M and then P in quick succession, because you can't abandon challenge in the map so you have to buffer it by pushing M and then P quickly[ ](https://youtu.be/V9_AoUDVKaY)
 
-## Lag and Snapshot Interactions
-
-**By:** Soup420\#1634  
-**Added:** 04/19/2021  
-_\*\*_[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/826181971545292880/834198195352764446/transcript-lag-and-snapshot-interactions.html)
-
-**Finding:** Skills that snapshot character stats like attack and hp are probably snapshotted client side and sent to server to be confirmed. The same applies to skills that actually apply the buff, like Bennett buff and Hutao buff which both apply their buffs without the need for server connection. However, HP can't be changed without server connection so it results in weird interactions with Hutao or Bennett buffs.
-
-Skills that are dependent on enemy HP values like Diluc c1 or Albedo A2 are applied server-side, and from the findings lag doesn't cause any unexpected damage numbers. This probably implies all damage done is calculated by the server, but using the stats sent from the player client.
-
-**Evidence:**
-
-* [Bennett overheal](https://www.youtube.com/watch?v=aIMPpFMJFSk)
-* [Diluc C1 not benefitting](https://www.youtube.com/watch?v=NSC2BhkhcJo)
-
 ## Venti Q Late Absorption Bug
 
 **By:** soup420\#1634  
@@ -185,4 +219,3 @@ This may be considered a bug due to the visual indication being tilted, but the 
 It can happen against any enemy, and it seems to be a random occurrence. It doesn't seems to follow any pattern \(in some tests it would happen 1 time in 10 mins, in others it would happen 2 times in 2 mins\). It doesn't seems to be related to Mona's Cons, Weapons, Artifacts, neither to mechanical input or ping. It doesn't happens if you use Hold E, only on Press E. Don't know if this bug happened in previous patches. Thanks to @Aluminum \| Harbinger of Jank for one of the clips.
 
 **Significance:** If this bug can be replicated consistently, it can double Mona's Energy Generation + a minimal increase in damage.
-

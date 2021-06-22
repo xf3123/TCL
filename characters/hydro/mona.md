@@ -146,6 +146,7 @@ When Mona crafts Weapon Ascension Materials, She has a 25% chance to refund a po
 After she has used **Illusory Torrent** for 2s, if there are any opponents nearby, Mona will automatically create a **Phantom**:
 
 * A **Phantom** created in this manner lasts for 2s, and its explosion DMG is equal to 50% of **Mirror Reflection of Doom**.
+* Damage dealt by this **Phantom** is considered elemental skill damage, and can thus trigger related artifact effects.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
@@ -170,6 +171,8 @@ When any of your own party members hit an opponent affected by an **Omen**, Hydr
 
 This bonus effect is additive and classified as **ReactionBonus.**  
 See: [Damage Formula](https://library.keqingmains.com/mechanics/combat/damage-formula#amplifying-reaction-bonus)
+
+Teammates in Co-op are not counted as "your own party members" and will not obtain the effects of **Prophecy of Submersion.**
 {% endtab %}
 
 {% tab title="C2" %}

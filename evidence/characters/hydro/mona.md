@@ -1,5 +1,9 @@
 # Mona
 
+**Main Page:**
+
+{% page-ref page="../../characters/hydro/mona.md" %}
+
 ## **Can Mona’s 2nd Constellation allow you to trigger Vaporize on a pyro inflicted target twice?**
 
 **By:** Kimmu\#0007  
@@ -60,7 +64,7 @@ The fact that Mona's particle gen is seemingly random means there's an RNG aspec
 ## **What Attack String Combo Outputs the Highest DPS for Mona?**
 
 **By:** Baezal\#0868  
-**Added:** 27/12/2020
+**Added:** 12/27/2020
 
 **Finding:**
 
@@ -200,4 +204,38 @@ Illusory Bubble can be extended to its maximum duration in specific scenarios wi
 
 **Significance:**  
 Allows for longer use of Omen's buff to said enemies in team comps outside of freeze.
+
+## C1 Co-op Clarification
+
+**By:** Terrapin\#8603 and sleepy\#0042  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/846175551470829578/854997178450444318/transcript-mona-c1-coop.html)
+
+**Finding:**  
+Mona's C1 buff only applies to your own party members in coop, and not other players.
+
+**Evidence:** 
+
+[Coop Video](https://www.youtube.com/watch?v=ZkGeYka5EUc)  
+As shown in the video, Sucrose's Hydro Swirl is not changed from 3512 damage when a c1 Mona applies Omen. Fischl's 1230 Electro-charged damage is not changed, but Mona's 1172 Electro-charged damage increases to 1326.
+
+[Singleplayer Video](https://www.youtube.com/watch?v=LTBhTcl5TkY)   
+Venti's Hydro Swirl does 1157 damage without the buff, and 1255 with it.
+
+**Significance:**  
+Mona's C1 does not work party-wide in co-op.
+
+## A1 damage type
+
+**By:** Drazatis\#9999  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/855354855525580800/856384260121034752/transcript-4-tom-mona-a1-edition.html)
+
+**Finding:**  
+Mona’s A1 Talent, “Come n’ Get Me Hag” is capable of proccing the 4 piece set bonus of Tenacity of the Millelith, thus is considered elemental skill damage.
+
+**Evidence:** 
+
+[https://youtu.be/8ArWy-739TQ]
+
+**Significance:**  
+While I sincerely doubt that 4 ToM Mona will become a viable build path for her, knowing that her A1 can help proc skill based effects is potentially very useful information for future weapons or artifact sets; while also being just funny for memey setups with 4ToM.
 
